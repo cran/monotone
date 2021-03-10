@@ -1,0 +1,5 @@
+useDynLib("monotone", .registration=TRUE)
+export("monotone")
+export("legacy")
+export("unimonotone")
+export("bimonotone")
