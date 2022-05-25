@@ -3,7 +3,7 @@
 #' \code{monotone} performs simple linear ordered monotone or isotonic regression.
 #' The function follows the up-and-down-blocks implementation (Kruskal, 1964)
 #' of the pool-adjacent-violators algorithm (Ayer, Brunk, Ewing, Reid, and Silverman, 1955)
-#' with additional lookaheads (Busing, 2021).
+#' with additional lookaheads (Busing, 2022).
 #'
 #' @param x a real-valued vector.
 #' @param w a real-valued vector with positive weights (default a vector with ones).

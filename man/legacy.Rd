@@ -18,7 +18,7 @@ Returns a real-valued vector with values of \code{x} in increasing order.
 }
 \description{
 \code{legacy} provides some functions for monotone regression from the past.
-Current implementations have been translated into C for proper comparison in Busing (2020).
+Current implementations have been translated into C for proper comparison in Busing (2022).
 }
 \details{
 Legacy implementations by number, function, author, and year:

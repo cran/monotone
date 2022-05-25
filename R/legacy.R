@@ -1,7 +1,7 @@
 #' Monotone Regression Legacy Function
 #'
 #' \code{legacy} provides some functions for monotone regression from the past.
-#' Current implementations have been translated into C for proper comparison in Busing (2020).
+#' Current implementations have been translated into C for proper comparison in Busing (2022).
 #'
 #' @param x a real-valued vector.
 #' @param w a real-valued vector with positive weights (default a vector with ones).
