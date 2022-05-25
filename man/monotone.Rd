@@ -35,9 +35,11 @@ Ayer M., H.D. Brunk, G.M. Ewing, W.T. Reid, and E. Silverman (1955).
   \emph{The Annals of Mathematical Statistics}, pp. 641-647. 
   URL https://www.jstor.org/stable/pdf/2236377.pdf.
 
-  Busing, F.M.T.A. (2021). 
+  Busing, F.M.T.A. (2022). 
   Monotone Regression: A Simple and Fast O(n) PAVA Implementation. 
-  Leiden University.
+  \emph{Journal of Statistical Software, Code Snippets, 102 (1)}, pp. 1-25. 
+  (<doi:10.18637/jss.v102.c01>)
+  
 
   Kruskal, J.B. (1964). 
   Nonmetric multidimensional scaling: a numerical method.

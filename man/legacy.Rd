@@ -23,7 +23,7 @@ Current implementations have been translated into C for proper comparison in Bus
 \details{
 Legacy implementations by number, function, author, and year:
 \itemize{
- \item{0 = default (do nothing, sorry)}  
+ \item{0 = default (do nothing)}  
  \item{1 = fitm() by Kruskal}{ (1964).}
  \item{2 = wmrmnh() by van Waning}{ (1976).}
  \item{3 = amalgm() by Cran}{ (1980).}
@@ -49,8 +49,8 @@ print( x )
 
 }
 \references{
-Busing, F.M.T.A. (2021).
-  Monotone Regression: A Simple and Fast O(n) PAVA Implementation.
-  Leiden University.
-  ... and the references therein.
+Busing, F.M.T.A. (2022). 
+  Monotone Regression: A Simple and Fast O(n) PAVA Implementation. 
+  \emph{Journal of Statistical Software, Code Snippets, 102 (1)}, pp. 1-25. 
+  (<doi:10.18637/jss.v102.c01>)
 }

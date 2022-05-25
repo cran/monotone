@@ -1,0 +1,19 @@
+citHeader("To cite monotone in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title        = "Monotone Regression: A Simple and Fast O(n) PAVA Implementation",
+  author       = person(given = c("Frank", "M.", "T.", "A."),
+                        family = "Busing",
+                        email = "busing@fsw.leidenuniv.nl"),
+  journal      = "Journal of Statistical Software, Code Snippets",
+  year         = "2022",
+  volume       = "102",
+  number       = "1",
+  pages        = "1--25",
+  doi          = "10.18637/jss.v102.c01",
+  textVersion = paste(
+
+  )
+)
+

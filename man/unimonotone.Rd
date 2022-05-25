@@ -38,9 +38,10 @@ Bril G, Dykstra R, Pillers C, Robertson T (1984).
   Journal of the Royal Statistical Society. Series C (Applied Statistics), 33(3), 352-357. 
   URL https://www.jstor.org/stable/pdf/2347723.pdf.
 
-  Busing, F.M.T.A. (2021). 
+  Busing, F.M.T.A. (2022). 
   Monotone Regression: A Simple and Fast O(n) PAVA Implementation. 
-  Leiden University.
+  \emph{Journal of Statistical Software, Code Snippets, 102 (1)}, pp. 1-25. 
+  (<doi:10.18637/jss.v102.c01>)
 
   Stout, Q.F. (2008).
   Unimodal Regression via Prefix Isotonic Regression.
